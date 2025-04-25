@@ -3,9 +3,14 @@
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: PREM SUMERUKUMAR MEGHA
+
 *INTERN ID*: C0DF232
 
 *DOMAIN*: Artificial Intelligence Markup Language.
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
 ---
 
 ## Overview
