@@ -64,20 +64,20 @@ neural-style-transfer/
 
 ## OUTPUT:-
 
-![GUI]
+## GUI
 ![Image](https://github.com/user-attachments/assets/6f7e8cd1-5863-45a4-b82a-4d92c0b1fd86)
 
 
-![pop_art style]
+## pop_art style
 ![Image](https://github.com/user-attachments/assets/d847b743-e82e-4ac9-a96d-b55bcc8a5e35)
 
-![ghibli style]
+## ghibli style
 ![Image](https://github.com/user-attachments/assets/cde9a18b-d51e-4ba5-9a56-90b2fabc5a46)
 
-![comic style]
+## comic style
 ![Image](https://github.com/user-attachments/assets/b2b4f2e8-7e76-41ff-8234-efc81278c2f3)
 
-![painting style]
+## painting style
 ![Image](https://github.com/user-attachments/assets/99d5df31-adf6-4a1b-9c6d-84da1b087f3c)
 
 
